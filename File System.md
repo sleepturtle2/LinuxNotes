@@ -1,5 +1,5 @@
 # File System
-Everything in Linux is a file. Things like configurations, network settings, devices all are files.
+Everything in Linux is a file. Things like configurations, network settings, devices etc all are files.
 
 *   /bin - contains command binaries (soft link to /usr/bin)
 *   /sbin - (super bin) contains root command binaries (soft linked to /usr/sbin)
